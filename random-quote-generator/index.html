@@ -1,6 +1,21 @@
-<html>
-    <head><title>Random quote generator</title> 
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body id="background"></body>
+
+<html lang="en">
+
+<head>
+    <title>Random quote generator</title>
+    <link rel="stylesheet" href="style.css">
+  
+</head>
+
+<body id="bkg">
+    <blockquote id="quoteString">
+        <span id="source"></span>
+    </blockquote>
+   
+    <button onclick="randomQuote()">Next Quote</button>
+
+
+</body>
+<!--Keep your script load after body else it will create problem-->
+<script src="quotes.js" type="text/javascript"></script>
 </html>
