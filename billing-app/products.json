@@ -1,0 +1,16 @@
+[{
+	"productName": "Latte",
+	"productPrice": 10
+}, {
+	"productName": "Cappuccino",
+	"productPrice": 20
+}, {
+	"productName": "Americano",
+	"productPrice": 30
+}, {
+	"productName": "Espresso",
+	"productPrice": 40
+}, {
+	"productName": "Robusta",
+	"productPrice": 50
+}]
